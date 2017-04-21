@@ -2,138 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a8f2e0e-e63f-4f96-9877-dcd68bd17c24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW02/Lab02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW02/Start.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW02/TextIO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/java_l_03.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/double.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ACM/JUDGE_03/Fire.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ACM/meetingforparty.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ACM/oceancurrents.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JAVA TRIES/Customer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JAVA TRIES/Library.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JAVA TRIES/files.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/cars/Race.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/cars/model/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/cars/model/Engine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/cars/model/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/cars/model/ServiceBook.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/data/CarLinkedList$CarListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/data/CarLinkedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/data/RaceResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/data/TimeSpan.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/cvut/cz/pjv/utils/ArrayUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_03/java_l_03.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/Bicycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/BikeVisitor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/MountainBike.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/RoadBike.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/TestBikes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/holders/BicycleHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/holders/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/holders/GenericCar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/holders/MountainBikeHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/holders/RoadBikeHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/services/Basicservice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/services/MountainBikeservice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_04/services/RoadBikeservice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_05/Contact.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_05/ContactList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_05/ContactList2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_05/ContactListFullException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_05/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_06/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_06/MainFrame$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_06/MainFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_06/MinusListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/LECTURE_06/PlusListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/LECTURES/double.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACM/ACM.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACM/src/JUDGE_03/Fire.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACM/src/meetingforparty.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACM/src/oceancurrents.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/HOMEWORKS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW01/Lab01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW01/Start.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW02/Lab02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW02/Start.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW02/TextIO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW03/CircularArrayQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW03/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW03/Start.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW04/BruteForceAttacker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW04/Start.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW04/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW04/Thief.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW05/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW05/NodeImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW05/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/HW05/TreeImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/err.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HOMEWORKS/src/out.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVA TRIES/JAVA TRIES.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVA TRIES/output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVA TRIES/src/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVA TRIES/src/Library.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVA TRIES/src/files.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/.idea/JAVANEWTHINGS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/NestedClasses/Outer_Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Observable/DemoBarComp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Observable/Model.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Observable/MyBarPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Observable/ThreadModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Threads/ThreadDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Threads/ThreadKiller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVANEWTHINGS/Threads/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/LECTURES.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/cars/Race.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/cars/model/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/cars/model/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/cars/model/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/cars/model/ServiceBook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/data/CarLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/data/RaceResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/data/TimeSpan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_03/cvut/cz/pjv/utils/ArrayUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/Bicycle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/BikeVisitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/MountainBike.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/RoadBike.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/TestBikes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/holders/BicycleHolder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/holders/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/holders/GenericCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/holders/MountainBikeHolder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/holders/RoadBikeHolder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/services/Basicservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/services/MountainBikeservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_04/services/RoadBikeservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_05/Contact.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_05/ContactList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_05/ContactList2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_05/ContactListFullException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_05/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_06/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_06/MainFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_06/MinusListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_06/PlusListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_06/ResetListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_08/Contact.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_08/Reader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTURES/src/LECTURE_08/newfile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SCHOLLSTUFF.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customer.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customer.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/LECTURES/src/LECTURE_08/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="145" column="101" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="146" selection-end-column="0" />
+              <caret line="145" column="101" lean-forward="false" selection-start-line="145" selection-start-column="101" selection-end-line="145" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -504,32 +373,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LECTURES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SCHOOLSTUFF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LECTURES" />
+              <option name="myItemId" value="SCHOLLSTUFF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LECTURE_08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SCHOOLSTUFF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACM" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -635,12 +484,15 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/LECTURES/src" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAVA TRIES/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LECTURE_08" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/JAVA TRIES" />
-      <recent name="$PROJECT_DIR$/JAVA TRIES/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JAVA TRIES/src" />
     </key>
   </component>
@@ -988,7 +840,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4366617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1005,7 +857,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16873315" sideWeight="0.6542474" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16873315" sideWeight="0.6542474" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980783" sideWeight="0.4924812" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1064,13 +916,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LECTURES/src/LECTURE_04/MountainBike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LECTURES/src/LECTURE_04/services/RoadBikeservice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1388,10 +1233,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ACM/src/JUDGE_03/ss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LECTURES/src/LECTURE_08/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="145" column="101" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="146" selection-end-column="0" />
+          <caret line="145" column="101" lean-forward="false" selection-start-line="145" selection-start-column="101" selection-end-line="145" selection-end-column="101" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
