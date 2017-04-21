@@ -1,0 +1,6 @@
+This is text  where the   spaces will be  removed.
+df
+
+aa
+
+a
