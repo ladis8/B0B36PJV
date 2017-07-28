@@ -11,7 +11,7 @@ public interface Tree {
 	 * @param values new values of the tree
 	 */
 	public void setTree(int[] values);
-	
+
 	/**
 	 * @return root of the tree, or null if the tree is empty.
 	 */

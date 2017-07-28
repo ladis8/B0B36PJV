@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<phonebook creator="Bart Simpson">
+  <person>
+    <name>Aleš</name>
+    <surname>Vocásek</surname>
+    <phone>+420-123456789</phone>
+  </person>
+  <person>
+    <name>Petr</name>
+    <surname>Novák</surname>
+    <phone>+420-893456789</phone>
+  </person>
+  <person>
+    <name>Al</name>
+    <surname>Koholík</surname>
+    <phone>+420-534156789</phone>
+  </person>
+  <person>
+    <name>Pepa</name>
+    <surname>Zdepa</surname>
+  </person>
+  <person>
+    <name>Herma</name>
+    <surname>Frodyt</surname>
+    <phone></phone>
+  </person>
+</phonebook>
